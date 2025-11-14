@@ -1,0 +1,21 @@
+{
+    "full_name": "Pierre Tardivo Martin",
+    "name": "PTM",
+    "current_role": "Founds",
+    "location": "Montreal, Canada",
+    "email": "pierretardivomartin@gmail.com",
+    "linkedin": "linkedin.com/in/pierretardivomartin",
+    "specialties": [
+      "Leadership",
+      "Cutting edge business solutions",
+      "Public Speaking"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Business Technology Management",
+        "institution": "Concordia University",
+        "year": "2015"
+      }
+    ]
+  }
